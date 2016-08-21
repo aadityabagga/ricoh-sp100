@@ -27,7 +27,7 @@ If you have troubles with printing:
 
  2) Remove all /tmp/pstoricohddst-gdi* directories if found
 
- 3) Enable debug behavior by editing `/usr/lib/cups/filterpstoricohddst-gdi`
+ 3) Enable debug behavior by editing `/usr/lib/cups/filter/pstoricohddst-gdi`
     file (line 4)
 
  4) Re-install printer in cups, make sure printing queue is clear
@@ -46,7 +46,7 @@ If you have troubles with printing:
  9) Log in to Github (or register if you're unregistered)
 
 10) Open an issue (https://github.com/madlynx/ricoh-sp100/issues/new) with
-    problem description, add output of steps 1) and 6)
+    problem description, add output of steps 1) and 7)
 
 11) Wait... :) And never ever write me letters through e-mail (I never open
     spam folder, but your mail will arrive there with 146% expectancy)
